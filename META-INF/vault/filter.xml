@@ -22,6 +22,6 @@
     See https://jackrabbit.apache.org/filevault/filter.html for details
 -->
 <workspaceFilter vesion="1.0">
-    <filter root="/content/example"/>
-    <filter root="/apps/example"/>
+    <filter root="/content/podcasts"/>
+    <filter root="/apps/components"/>
 </workspaceFilter>

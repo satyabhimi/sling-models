@@ -20,3 +20,6 @@ target/
 .dir
 .gitkeep
 *.js.dir
+
+#sling Extract files
+jar/*
