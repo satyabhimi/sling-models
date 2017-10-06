@@ -1,5 +1,6 @@
 <jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:vlt="http://www.day.com/jcr/vault/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
     jcr:primaryType="nt:unstructured"
     jcr:title="Podcasts Title"
+    jcr:description="Hello this is root podcasts page"
     sling:resourceType="components/podcasts">
 </jcr:root>
