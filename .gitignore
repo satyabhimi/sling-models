@@ -1,0 +1,22 @@
+### Intellij ###
+.idea
+/out/
+.idea_modules/
+*.iml
+*.ipr
+
+### Maven ####
+/*/target
+target/
+
+#OS junk files
+[Tt]humbs.db
+*.DS_Store
+
+# Eclipse Files
+.project
+.classpath
+.settings/
+.dir
+.gitkeep
+*.js.dir
