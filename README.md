@@ -1,1 +1,1 @@
-sling-models
+sling-model
